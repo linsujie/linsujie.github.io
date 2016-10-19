@@ -1,0 +1,62 @@
+body {
+	font-family: 'WenQuanYi Zen Hei', 'WenQuanYi Micro Hei', 'Microsoft YaHei', 'Helvetica', 'Arial', 'Sans-Serif';
+	margin: 60px auto;
+	width: 70%;
+}
+nav ul, footer ul {
+	font-family: 'WenQuanYi Zen Hei', 'WenQuanYi Micro Hei', 'Microsoft YaHei', 'Helvetica', 'Arial', 'Sans-Serif';
+	padding: 0px;
+	list-style: none;
+	font-weight: bold;
+	font-size: 1.2em;
+}
+nav ul li, footer ul li {
+	display: inline;
+	background-color: #FFFFFF;
+	border: 3px solid #64C9FF;
+	border-radius: 14px;
+	box-shadow: 3px 3px 8px 0px #64C9FF;
+	padding: 4px 10px 4px 10px;
+	margin: 0 1ex 0 0;
+}
+a {
+	text-decoration: none;
+	color: #009;
+	-webkit-transition: all 0.3s ease-out;
+}
+a:hover {
+	color: #39F !important;
+	text-shadow:-5px 3px 18px #39F !important;
+	-webkit-transition: all 0.3s ease-out;
+}
+h1 {
+	font-size: 2.5em;
+}
+p {
+	font-size: 1.2em;
+	line-height: 1.1em;
+	color: #333;
+}
+ul li {
+	font-size: 1.2em;
+	line-height: 1.5em;
+	margin:0.5em;
+}
+ol li {
+	font-size: 1.2em;
+	line-height: 1.5em;
+	margin:0.5em;
+}
+footer {
+	font-size: .8em;
+}
+
+ul.posts { 
+	margin: 20px auto 40px; 
+	font-size: 0.5em;
+}
+
+ul.posts li {
+	list-style: none;
+}
+
