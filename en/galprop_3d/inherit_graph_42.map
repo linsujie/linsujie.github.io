@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classSM_1_1LOSfunction.html" title="SM::LOSfunction\&lt; std\l::valarray\&lt; double \&gt; \&gt;" alt="" coords="5,99,157,141"/>
+<area shape="rect" id="node2" href="$classDistributionFunction.html" title="DistributionFunction" alt="" coords="229,5,368,32"/>
+<area shape="rect" id="node3" href="$classGalprop_1_1AnisoICFunction.html" title="Galprop::AnisoICFunction" alt="" coords="213,56,385,83"/>
+<area shape="rect" id="node4" href="$classGalprop_1_1GasEmissFunction.html" title="Galprop::GasEmissFunction" alt="" coords="205,107,392,133"/>
+<area shape="rect" id="node5" href="$classsynchro_1_1EmissFreeFree.html" title="synchro::EmissFreeFree" alt="" coords="216,157,381,184"/>
+<area shape="rect" id="node6" href="$classsynchro_1_1KappaFreeFree.html" title="synchro::KappaFreeFree" alt="" coords="216,208,381,235"/>
+</map>

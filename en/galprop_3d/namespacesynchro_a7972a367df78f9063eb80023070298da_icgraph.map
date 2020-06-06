@@ -1,0 +1,9 @@
+<map id="synchro::gff" name="synchro::gff">
+<area shape="rect" id="node2" href="$namespacesynchro.html#a9582f496bff6d458fed7abf108a3aef9" title="synchro::kff" alt="" coords="144,21,235,47"/>
+<area shape="rect" id="node4" href="$namespacesynchro.html#aa5aad2ab0a998f645cffba825f68eb9d" title="synchro::kappa_free_free" alt="" coords="283,71,452,98"/>
+<area shape="rect" id="node7" href="$namespacesynchro.html#a2ed33385e211314ff64e4da250df91c0" title="synchro::eff" alt="" coords="144,122,235,149"/>
+<area shape="rect" id="node3" href="$classsynchro_1_1KappaFreeFree.html#a323b397e1cab0dadf6834633f690f033" title="x,y,z are the spatial coordinates for evaluation and dir is the direction the camera is pointing ..." alt="" coords="285,5,450,47"/>
+<area shape="rect" id="node5" href="$namespacesynchro.html#a0293ddc783240c169ea1febd76d525e6" title="synchro::kappa_free\l_free_2D" alt="" coords="500,31,640,72"/>
+<area shape="rect" id="node6" href="$namespacesynchro.html#a01492872a7fa57fe6c252d675cbc5fea" title="synchro::kappa_free\l_free_3D" alt="" coords="500,96,640,137"/>
+<area shape="rect" id="node8" href="$classsynchro_1_1EmissFreeFree.html#a335dd2aa93bbb4e7852f90d5fb58098f" title="x,y,z are the spatial coordinates for evaluation and dir is the direction the camera is pointing ..." alt="" coords="285,123,450,164"/>
+</map>

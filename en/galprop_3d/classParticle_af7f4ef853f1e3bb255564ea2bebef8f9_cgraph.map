@@ -1,0 +1,8 @@
+<map id="Particle::init" name="Particle::init">
+<area shape="rect" id="node2" href="$classParticle.html#a84900098ffcd135037fb89dbf5005f52" title="Particle::delete_arrays" alt="" coords="144,71,296,98"/>
+<area shape="rect" id="node5" href="$galprop__internal_8h.html#a79cf8819fe76a9e7d7128e751805ddc6" title="kinematic" alt="" coords="181,122,259,149"/>
+<area shape="rect" id="node7" href="$classDistribution.html#afd6c93379dc48bf4cb5470fd7dee4c16" title="Distribution::init" alt="" coords="371,173,484,199"/>
+<area shape="rect" id="node3" href="$classParticle.html#a0b24b795a3051edb509053b1b854d38f" title="Particle::delete_transport\l_arrays" alt="" coords="344,5,511,47"/>
+<area shape="rect" id="node4" href="$classDistribution.html#a10e1f0a2f96e8c9940d760b05ad1812c" title="Distribution::delete\l_array" alt="" coords="559,64,689,105"/>
+<area shape="rect" id="node6" href="$namespaceinteg.html#a8321b537a94df2729ca9f0245d90c0ba" title="integ::fabs" alt="" coords="386,122,469,149"/>
+</map>

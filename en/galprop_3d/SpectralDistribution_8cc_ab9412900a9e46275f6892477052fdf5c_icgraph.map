@@ -1,0 +1,10 @@
+<map id="integrationFunction" name="integrationFunction">
+<area shape="rect" id="node2" href="$classSpectralDistribution.html#acb5d9a10f5d7d0de34ee467f04b5e810" title="SpectralDistribution\l::integral" alt="" coords="185,201,321,243"/>
+<area shape="rect" id="node3" href="$classSpectralDistribution.html#a1365f4840e31bcfa815e00bb9970ca58" title="Integral over a range of kinetic energy per nucleon. " alt="" coords="369,5,505,47"/>
+<area shape="rect" id="node4" href="$classSpectralDistribution.html#abde553808685f3213ef9586c958ea472" title="Integral over a range of total energy. " alt="" coords="369,71,505,112"/>
+<area shape="rect" id="node5" href="$classSpectralDistribution.html#a2bd25282b1d4b99db2964c64b96b7908" title="Integral over a range of total momentum. " alt="" coords="369,136,505,177"/>
+<area shape="rect" id="node6" href="$classSpectralDistribution.html#a69040fefa78e63a2205a25fe93d2f12b" title="Integral over a range of momentum per nucleon. " alt="" coords="369,201,505,243"/>
+<area shape="rect" id="node7" href="$classSpectralDistribution.html#a5948cca143aa524f78e14c49e6e06760" title="Integral over a range of rigidity. " alt="" coords="369,267,505,308"/>
+<area shape="rect" id="node8" href="$classSpectralDistribution.html#a0121428ae0047b1abd25aef572947fbf" title="Integral over a range of Lorentz factor. " alt="" coords="369,332,505,373"/>
+<area shape="rect" id="node9" href="$classSpectralDistribution.html#aae5d69c86ee9fc5dc02b353227e20e9b" title="Integral over a range of velocity (normalized to c) " alt="" coords="369,397,505,439"/>
+</map>

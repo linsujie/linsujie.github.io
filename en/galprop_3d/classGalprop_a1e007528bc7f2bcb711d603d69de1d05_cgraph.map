@@ -1,0 +1,5 @@
+<map id="Galprop::electrons_normalize" name="Galprop::electrons_normalize">
+<area shape="rect" id="node2" href="$classParticle.html#af95e274bba8cd5a055f03673bd82a867" title="Particle::create_transport\l_arrays" alt="" coords="181,5,349,47"/>
+<area shape="rect" id="node3" href="$classDistribution.html#afd6c93379dc48bf4cb5470fd7dee4c16" title="Distribution::init" alt="" coords="397,13,511,39"/>
+<area shape="rect" id="node4" href="$classDistribution.html#a10e1f0a2f96e8c9940d760b05ad1812c" title="Distribution::delete\l_array" alt="" coords="559,5,689,47"/>
+</map>

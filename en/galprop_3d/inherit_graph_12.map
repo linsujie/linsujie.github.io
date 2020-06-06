@@ -1,0 +1,8 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classPropelBase.html" title="PropelBase" alt="" coords="5,81,95,108"/>
+<area shape="rect" id="node2" href="$classPropelOperatorSplitting.html" title="PropelOperatorSplitting\&lt; T \&gt;" alt="" coords="143,81,331,108"/>
+<area shape="rect" id="node3" href="$classPropelCrankNicolson.html" title="PropelCrankNicolson\&lt; T \&gt;" alt="" coords="397,5,575,32"/>
+<area shape="rect" id="node4" href="$classPropelCrankNicolsonVector.html" title="PropelCrankNicolsonVector\&lt; T \&gt;" alt="" coords="379,56,593,83"/>
+<area shape="rect" id="node5" href="$classPropelFluxSim.html" title="PropelFluxSim\&lt; T \&gt;" alt="" coords="417,107,555,133"/>
+<area shape="rect" id="node6" href="$classPropelHundsdorferVerwer.html" title="PropelHundsdorferVerwer\&lt; T \&gt;" alt="" coords="385,157,587,184"/>
+</map>

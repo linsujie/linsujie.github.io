@@ -1,0 +1,11 @@
+<map id="Distribution::max" name="Distribution::max">
+<area shape="rect" id="node2" href="$classGalprop.html#a2508eec1046d1957a3f666e4d18db9b9" title="Galprop::gen_secondary\l_source" alt="" coords="185,5,347,47"/>
+<area shape="rect" id="node6" href="$classGalprop.html#a13ba4785b0581ffb286e9bd770e233bb" title="Galprop::propel" alt="" coords="435,70,546,97"/>
+<area shape="rect" id="node7" href="$classGalprop.html#aa29f51ffca62f44366394cde117f3bea" title="Galprop::propel_diagnostics" alt="" coords="175,122,357,149"/>
+<area shape="rect" id="node8" href="$classPropelFluxSim.html#a65123ac97ab73e8414968993213aa7b7" title="PropelFluxSim::initialize\lAlpha" alt="" coords="185,173,347,215"/>
+<area shape="rect" id="node9" href="$classPropelHundsdorferVerwer.html#ab775a27413f223a514a805e5d7bc8101" title="PropelHundsdorferVerwer\l::initializeAlpha" alt="" coords="405,261,576,303"/>
+<area shape="rect" id="node10" href="$classPropelOperatorSplitting.html#a706de4c576940abd7761c23a7fdeae07" title="PropelOperatorSplitting\l::initializeAlpha" alt="" coords="188,291,344,332"/>
+<area shape="rect" id="node3" href="$classGalprop.html#a2c59f7bcde74a3253c697f0db449e08e" title="Galprop::gen_luminosity" alt="" coords="409,15,572,42"/>
+<area shape="rect" id="node4" href="$classGalprop.html#a3af5a665a7f03563d89d59c723a105a7" title="Galprop::Run" alt="" coords="624,43,723,70"/>
+<area shape="rect" id="node5" href="$galpropMain_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="771,43,821,70"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="synchro::kappa_free_free_3D" name="synchro::kappa_free_free_3D">
+<area shape="rect" id="node2" href="$galprop__internal_8h.html#a6c893fd751d9e52b79e45d7a7bc91a8f" title="nHII3D" alt="" coords="246,56,310,83"/>
+<area shape="rect" id="node6" href="$namespacesynchro.html#aa5aad2ab0a998f645cffba825f68eb9d" title="synchro::kappa_free_free" alt="" coords="193,132,363,159"/>
+<area shape="rect" id="node3" href="$nH_8cc.html#a8e675f26c3dcfc6d6db273d563bc1ed1" title="nHII" alt="" coords="457,5,503,32"/>
+<area shape="rect" id="node5" href="$namespacenH__models.html#a8519f1e3ec2de969914bf2fa82a6257d" title="nH_models::HIIzero" alt="" coords="411,56,549,83"/>
+<area shape="rect" id="node4" href="$namespaceinteg.html#a8321b537a94df2729ca9f0245d90c0ba" title="integ::fabs" alt="" coords="601,5,684,32"/>
+<area shape="rect" id="node7" href="$namespacesynchro.html#a7972a367df78f9063eb80023070298da" title="synchro::gff" alt="" coords="597,157,688,184"/>
+<area shape="rect" id="node8" href="$namespacesynchro.html#a9582f496bff6d458fed7abf108a3aef9" title="synchro::kff" alt="" coords="435,157,525,184"/>
+<area shape="rect" id="node9" href="$namespacesynchro.html#a2ed33385e211314ff64e4da250df91c0" title="synchro::eff" alt="" coords="435,208,525,235"/>
+</map>

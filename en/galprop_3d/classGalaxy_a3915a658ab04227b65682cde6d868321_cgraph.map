@@ -1,0 +1,6 @@
+<map id="Galaxy::operator=" name="Galaxy::operator=">
+<area shape="rect" id="node2" href="$classGalaxy.html#aa9229c0d7a4ef6ee7c56852cc734c1e4" title="Galaxy::free_memory" alt="" coords="200,5,347,32"/>
+<area shape="rect" id="node3" href="$classGalaxy.html#a2cd25ba71c632d14c2ee809ebd275311" title="Galaxy::copy_variables" alt="" coords="194,56,353,83"/>
+<area shape="rect" id="node4" href="$classGalaxy.html#ad94ee8436af1e4c965d7297b97fdd3f7" title="Galaxy::copy_pointers_deep" alt="" coords="180,107,367,133"/>
+<area shape="rect" id="node5" href="$classGalaxy.html#ae515c42c30e01e480766b54ffda93193" title="Galaxy::init_pointers" alt="" coords="415,107,556,133"/>
+</map>

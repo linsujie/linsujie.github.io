@@ -1,0 +1,6 @@
+<map id="findAnnulus" name="findAnnulus">
+<area shape="rect" id="node2" href="$gen__skymaps_8cc.html#a3436f0235be56b98ae60f6871d17654b" title="calculatePixel" alt="" coords="144,5,247,32"/>
+<area shape="rect" id="node3" href="$classGalprop.html#a4a80ef13d7f26634bb82f17607f9f501" title="Galprop::gen_skymaps" alt="" coords="295,5,451,32"/>
+<area shape="rect" id="node4" href="$classGalprop.html#a3af5a665a7f03563d89d59c723a105a7" title="Galprop::Run" alt="" coords="499,5,597,32"/>
+<area shape="rect" id="node5" href="$galpropMain_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="645,5,696,32"/>
+</map>

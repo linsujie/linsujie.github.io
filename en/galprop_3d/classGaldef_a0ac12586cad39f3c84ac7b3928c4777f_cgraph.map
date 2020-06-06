@@ -1,0 +1,6 @@
+<map id="Galdef::read" name="Galdef::read">
+<area shape="rect" id="node2" href="$classGaldef.html#aa66f3c5afa015292a001ce22402708dd" title="Galdef::AssignDefaultParameters" alt="" coords="147,5,364,32"/>
+<area shape="rect" id="node3" href="$classGaldef.html#aa2d3c8d0998c8c0a16863b3034a797d7" title="Galdef::AssignParameters" alt="" coords="168,56,343,83"/>
+<area shape="rect" id="node4" href="$classSourceClass.html#a435d732cccbbdf918aaebc5529891623" title="Create a source class from the parameters object. The type of class is set with the SourceClassType p..." alt="" coords="412,31,553,57"/>
+<area shape="rect" id="node5" href="$classGaldef.html#a0a3a5b9db38a90ad83fc076dc2c3f74c" title="Galdef::print" alt="" coords="436,81,529,108"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="rf::ArmData::Angle" name="rf::ArmData::Angle">
+<area shape="rect" id="node2" href="$classutl_1_1ExponentialArmFunction.html#a1aa0b1e01aa03af0b07652f15fd74168" title="utl::ExponentialArmFunction\l::operator()" alt="" coords="184,5,371,47"/>
+<area shape="rect" id="node3" href="$classutl_1_1WainscoatArmFunction.html#ab4fe7ef6c11f1a5052de72dc0d90433d" title="utl::WainscoatArmFunction\l::operator()" alt="" coords="187,71,367,112"/>
+<area shape="rect" id="node4" href="$classutl_1_1NE2001ArmFunction.html#afdf4fccf14ae8a97370de23cdbe9db72" title="utl::NE2001ArmFunction\l::operator()" alt="" coords="195,136,360,177"/>
+<area shape="rect" id="node5" href="$namespaceutl.html#a8c5b7579a1236529a20a25bb08e96dbd" title="utl::WainscoatArm" alt="" coords="212,202,343,229"/>
+<area shape="rect" id="node7" href="$namespaceutl.html#aca622a2a6793ebf3ea8d26c34f884cac" title="utl::ExponentialArm" alt="" coords="209,253,345,279"/>
+<area shape="rect" id="node6" href="$namespaceutl.html#ae1a654888b270e3d2ee8e0395e255374" title="utl::WainscoatArmAverage" alt="" coords="421,202,600,229"/>
+<area shape="rect" id="node8" href="$namespaceutl.html#aa76b7ca84a6ae7d6124e7cacd4719d4c" title="utl::ExponentialArmAverage" alt="" coords="419,253,603,279"/>
+</map>

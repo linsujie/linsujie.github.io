@@ -1,0 +1,23 @@
+<map id="Galprop::gen_luminosity" name="Galprop::gen_luminosity">
+<area shape="rect" id="node2" href="$classParticle.html#af95e274bba8cd5a055f03673bd82a867" title="Particle::create_transport\l_arrays" alt="" coords="216,28,384,69"/>
+<area shape="rect" id="node5" href="$classGalprop.html#a278a0f5fd6e49fe75e51cfd4d85d7750" title="Galprop::fill_transport\l_arrays" alt="" coords="227,284,373,325"/>
+<area shape="rect" id="node11" href="$classGalprop.html#a2508eec1046d1957a3f666e4d18db9b9" title="Galprop::gen_secondary\l_source" alt="" coords="219,136,381,177"/>
+<area shape="rect" id="node14" href="$galprop__internal_8h.html#a82e7ffe8dfb17d92c6d59af877618946" title="nHI3D" alt="" coords="270,507,330,534"/>
+<area shape="rect" id="node18" href="$galprop__internal_8h.html#a7256eefa371301b6b205b60b42b66965" title="nH23D" alt="" coords="269,558,331,585"/>
+<area shape="rect" id="node19" href="$classGalprop.html#a01d06166ec81338afc0f06088aeaea8e" title="Galprop::fX_CO" alt="" coords="243,609,357,635"/>
+<area shape="rect" id="node20" href="$galprop__internal_8h.html#a6c893fd751d9e52b79e45d7a7bc91a8f" title="nHII3D" alt="" coords="268,431,332,458"/>
+<area shape="rect" id="node3" href="$classDistribution.html#afd6c93379dc48bf4cb5470fd7dee4c16" title="Distribution::init" alt="" coords="445,13,558,39"/>
+<area shape="rect" id="node4" href="$classDistribution.html#a10e1f0a2f96e8c9940d760b05ad1812c" title="Distribution::delete\l_array" alt="" coords="619,5,749,47"/>
+<area shape="rect" id="node6" href="$classDistribution.html#ab44c69fcd4cb838d5a57b366c3bb15f6" title="Distribution::print" alt="" coords="441,165,562,191"/>
+<area shape="rect" id="node7" href="$namespaceinteg.html#a8321b537a94df2729ca9f0245d90c0ba" title="integ::fabs" alt="" coords="823,475,906,502"/>
+<area shape="rect" id="node8" href="$galprop__internal_8h.html#ab109d1b0dfeee34d3f625eb012dabdab" title="nucdata" alt="" coords="467,317,535,343"/>
+<area shape="rect" id="node9" href="$galprop__internal_8h.html#a1b543e882c584d1928d7ea5da8845ea2" title="nucleon_loss" alt="" coords="452,367,551,394"/>
+<area shape="rect" id="node10" href="$galprop__internal_8h.html#a33d5bdcb026e34a68603f4415a0c3091" title="electron_loss" alt="" coords="452,266,551,293"/>
+<area shape="rect" id="node12" href="$classDistribution.html#a22627a39a895cc2407bee989bc4d0e29" title="Distribution::max" alt="" coords="441,63,562,90"/>
+<area shape="rect" id="node13" href="$classParticle.html#abdde9273e47d5ab8fde48bce58eac004" title="Particle::print" alt="" coords="452,114,551,141"/>
+<area shape="rect" id="node15" href="$nH_8cc.html#aba3d34571a6ac85736b090c94439a3a1" title="nHIold" alt="" coords="471,519,531,546"/>
+<area shape="rect" id="node16" href="$nH_8cc.html#ad7aead14cf1235408ac295e62751dc70" title="nHI" alt="" coords="663,545,705,571"/>
+<area shape="rect" id="node17" href="$namespacenH__models.html#a6e1912b41c477a79d74838780b697a0e" title="nH_models::HIzero" alt="" coords="797,551,932,578"/>
+<area shape="rect" id="node21" href="$nH_8cc.html#a8e675f26c3dcfc6d6db273d563bc1ed1" title="nHII" alt="" coords="661,425,707,451"/>
+<area shape="rect" id="node22" href="$namespacenH__models.html#a8519f1e3ec2de969914bf2fa82a6257d" title="nH_models::HIIzero" alt="" coords="432,469,571,495"/>
+</map>

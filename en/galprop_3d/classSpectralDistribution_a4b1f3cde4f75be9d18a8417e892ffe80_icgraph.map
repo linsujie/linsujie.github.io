@@ -1,0 +1,10 @@
+<map id="SpectralDistribution::value" name="SpectralDistribution::value">
+<area shape="rect" id="node2" href="$classSpectralDistribution.html#a0bad50a2fecf64a427e6b58396dffc48" title="SpectralDistribution\l::evaluate" alt="" coords="189,5,325,47"/>
+<area shape="rect" id="node3" href="$classSpectralDistribution.html#a7414782015b39bb857b3ee1766076976" title="Value at a given kinetic energy per nucleon. " alt="" coords="189,71,325,112"/>
+<area shape="rect" id="node4" href="$classSpectralDistribution.html#aaae8324c275cb0e361e8b3c26c7204c2" title="Value at a given total energy. " alt="" coords="189,136,325,177"/>
+<area shape="rect" id="node5" href="$classSpectralDistribution.html#a0c04ce45f381c5aa114bf8c16438a40e" title="Value at a given total momentum. " alt="" coords="189,201,325,243"/>
+<area shape="rect" id="node6" href="$classSpectralDistribution.html#a4ac84bf3982355f19f0888fdaed748eb" title="Value at a given momentum per nucleon. " alt="" coords="189,267,325,308"/>
+<area shape="rect" id="node7" href="$classSpectralDistribution.html#a4c946a12097744e84bf3fb7afc27e283" title="Value at a given rigidity. " alt="" coords="189,332,325,373"/>
+<area shape="rect" id="node8" href="$classSpectralDistribution.html#a8429a4fefcf48202f2ec20be6c41e3de" title="Value at a given Lorentz factor. " alt="" coords="189,397,325,439"/>
+<area shape="rect" id="node9" href="$classSpectralDistribution.html#a87360c11ea9d15f7b2194050ffe6ec38" title="Value at a given velocity (normalized to c) " alt="" coords="189,463,325,504"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="nHI3D" name="nHI3D">
+<area shape="rect" id="node2" href="$classGalprop.html#ae6252aa99e793b2e81eab27574e4e3b2" title="Galprop::create_galaxy" alt="" coords="125,5,281,32"/>
+<area shape="rect" id="node5" href="$classGalprop_1_1GasFunction.html#ae31033eeb5e7bf81b92a94ec700b1066" title="x,y,z are the spatial coordinates for evaluation and dir is the direction the camera is pointing ..." alt="" coords="129,57,278,98"/>
+<area shape="rect" id="node6" href="$classGalprop.html#a2c59f7bcde74a3253c697f0db449e08e" title="Galprop::gen_luminosity" alt="" coords="122,123,285,149"/>
+<area shape="rect" id="node7" href="$classSourceClass__Compatibility.html#a7b340acf97bad7af6e35356cf5e22291" title="SourceClass_Compatibility\l::source_distribution" alt="" coords="113,174,293,215"/>
+<area shape="rect" id="node9" href="$test__nH_8cc.html#a9304cec2c390bacb132db7da8809b82b" title="test_nH" alt="" coords="169,240,237,267"/>
+<area shape="rect" id="node3" href="$classGalprop.html#a3af5a665a7f03563d89d59c723a105a7" title="Galprop::Run" alt="" coords="382,64,481,91"/>
+<area shape="rect" id="node4" href="$galpropMain_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="569,64,620,91"/>
+<area shape="rect" id="node8" href="$classSourceClass__Compatibility.html#a09524e7d999f60c00d0420afed49f739" title="Add the steady state source density to the particle. " alt="" coords="341,174,521,215"/>
+</map>

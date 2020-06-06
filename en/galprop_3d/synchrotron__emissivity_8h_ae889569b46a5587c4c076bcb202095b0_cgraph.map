@@ -1,0 +1,7 @@
+<map id="synchrotron_emissivity" name="synchrotron_emissivity">
+<area shape="rect" id="node2" href="$synchrotron__emissivity_8cc.html#aba5a0e9c7d12cca6b72bdb39b0ff768c" title="gsl_set_error_handler_off" alt="" coords="209,5,377,32"/>
+<area shape="rect" id="node3" href="$B__field__3D__model_8cc.html#a737e07659ab45e5304ac1498695aa07a" title="Bperp" alt="" coords="265,56,321,83"/>
+<area shape="rect" id="node4" href="$synchrotron__emissivity_8cc.html#aa6a5588be4015af3b8fc81e33fe74807" title="gsl_sf_synchrotron_1_e" alt="" coords="213,107,373,133"/>
+<area shape="rect" id="node5" href="$synchrotron__emissivity_8cc.html#ad10f3b5f6ef5a407601ac092388ab462" title="gsl_sf_synchrotron_2_e" alt="" coords="213,157,373,184"/>
+<area shape="rect" id="node6" href="$synchrotron__emissivity_8cc.html#afe5d4f81782bf61d3f9808b3ac235a40" title="gsl_sf_bessel_Knu_e" alt="" coords="220,208,367,235"/>
+</map>

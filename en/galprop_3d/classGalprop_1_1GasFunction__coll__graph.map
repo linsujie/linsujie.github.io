@@ -1,0 +1,11 @@
+<map id="Galprop::GasFunction" name="Galprop::GasFunction">
+<area shape="rect" id="node2" href="$classSM_1_1LOSfunction.html" title="SM::LOSfunction\&lt; double \&gt;" alt="" coords="5,464,189,491"/>
+<area shape="rect" id="node3" href="$classGalprop.html" title="Galprop" alt="" coords="213,464,280,491"/>
+<area shape="rect" id="node4" href="$classGaldef.html" title="Galdef" alt="" coords="87,375,147,401"/>
+<area shape="rect" id="node5" href="$classParticle.html" title="Particle" alt="" coords="259,375,325,401"/>
+<area shape="rect" id="node6" href="$classDistribution.html" title="Distribution" alt="" coords="268,124,356,151"/>
+<area shape="rect" id="node9" href="$classGalaxy.html" title="Galaxy" alt="" coords="171,375,234,401"/>
+<area shape="rect" id="node7" href="$structSpectrum.html" title="Spectrum" alt="" coords="273,5,351,32"/>
+<area shape="rect" id="node8" href="$classgp_1_1Configure.html" title="gp::Configure" alt="" coords="350,375,450,401"/>
+<area shape="rect" id="node10" href="$classrf_1_1RadiationField.html" title="rf::RadiationField" alt="" coords="63,124,185,151"/>
+</map>

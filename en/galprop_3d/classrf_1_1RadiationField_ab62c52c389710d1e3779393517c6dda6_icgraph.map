@@ -1,0 +1,6 @@
+<map id="rf::RadiationField::ClearData" name="rf::RadiationField::ClearData">
+<area shape="rect" id="node2" href="$classrf_1_1RadiationField.html#acf60d1d1fde671c3d0d81b55b2d8745c" title="rf::RadiationField\l::~RadiationField" alt="" coords="195,5,316,47"/>
+<area shape="rect" id="node3" href="$classrf_1_1RadiationField.html#af3357da1700d9a37117193d15c0585d0" title="rf::RadiationField\l::ReadRadiationField2D" alt="" coords="175,71,336,112"/>
+<area shape="rect" id="node5" href="$classrf_1_1RadiationField.html#afd9256b2ce21eaaf32a58a815c36aa63" title="rf::RadiationField\l::ReadRadiationField3D" alt="" coords="175,136,336,177"/>
+<area shape="rect" id="node4" href="$classrf_1_1RadiationField.html#ac63607472b7d08c25c47694bb445edef" title="rf::RadiationField\l::RadiationField" alt="" coords="384,104,505,145"/>
+</map>

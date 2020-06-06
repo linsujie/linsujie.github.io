@@ -1,0 +1,16 @@
+<map id="Galprop::AvXCO" name="Galprop::AvXCO">
+<area shape="rect" id="node2" href="$classgp_1_1Configure.html#a9a778c8dea67e0cfab7f7b20b45555e3" title="gp::Configure::init" alt="" coords="194,19,319,45"/>
+<area shape="rect" id="node3" href="$classGaldef.html#a0ac12586cad39f3c84ac7b3928c4777f" title="Galdef::read" alt="" coords="210,69,303,96"/>
+<area shape="rect" id="node8" href="$classGalprop.html#a3d5045d1065aa2edb999ee31f5cf4cd0" title="Galprop::read_gas_maps" alt="" coords="173,145,340,172"/>
+<area shape="rect" id="node12" href="$classSM_1_1LOSintegrator.html#a15e6f8e0ee9a8f188aa718224b257382" title="Integrate all functions funcs along the line of sight in the directon l,b. " alt="" coords="187,277,326,318"/>
+<area shape="rect" id="node4" href="$classGaldef.html#aa66f3c5afa015292a001ce22402708dd" title="Galdef::AssignDefaultParameters" alt="" coords="388,5,605,32"/>
+<area shape="rect" id="node5" href="$classGaldef.html#aa2d3c8d0998c8c0a16863b3034a797d7" title="Galdef::AssignParameters" alt="" coords="409,56,584,83"/>
+<area shape="rect" id="node6" href="$classSourceClass.html#a435d732cccbbdf918aaebc5529891623" title="Create a source class from the parameters object. The type of class is set with the SourceClassType p..." alt="" coords="653,16,795,43"/>
+<area shape="rect" id="node7" href="$classGaldef.html#a0a3a5b9db38a90ad83fc076dc2c3f74c" title="Galdef::print" alt="" coords="677,67,771,93"/>
+<area shape="rect" id="node9" href="$classDistribution.html#afd6c93379dc48bf4cb5470fd7dee4c16" title="Distribution::init" alt="" coords="440,107,553,133"/>
+<area shape="rect" id="node10" href="$classDistribution.html#a10e1f0a2f96e8c9940d760b05ad1812c" title="Distribution::delete\l_array" alt="" coords="659,129,789,170"/>
+<area shape="rect" id="node11" href="$classDistribution.html#ab44c69fcd4cb838d5a57b366c3bb15f6" title="Distribution::print" alt="" coords="436,208,557,235"/>
+<area shape="rect" id="node13" href="$namespaceSM.html#a7ff20e0948f68ac700634f9eb80548b8" title="SM::IntersectionCylinder" alt="" coords="413,259,580,285"/>
+<area shape="rect" id="node14" href="$namespaceSM.html#a7c0fe32e3da94a5e009c37f06c072566" title="SM::IntersectionBox" alt="" coords="426,309,567,336"/>
+<area shape="rect" id="node15" href="$namespaceinteg.html#a419d363f28a744089ae0a766063f5a13" title="Simpson integration method for function of single variable returning vectors of valarrays. " alt="" coords="447,360,547,387"/>
+</map>

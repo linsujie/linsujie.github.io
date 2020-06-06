@@ -1,0 +1,9 @@
+<map id="Galprop" name="Galprop">
+<area shape="rect" id="node2" href="$classGaldef.html" title="Galdef" alt="" coords="29,375,89,401"/>
+<area shape="rect" id="node3" href="$classParticle.html" title="Particle" alt="" coords="201,375,267,401"/>
+<area shape="rect" id="node4" href="$classDistribution.html" title="Distribution" alt="" coords="210,124,298,151"/>
+<area shape="rect" id="node7" href="$classGalaxy.html" title="Galaxy" alt="" coords="113,375,176,401"/>
+<area shape="rect" id="node5" href="$structSpectrum.html" title="Spectrum" alt="" coords="215,5,293,32"/>
+<area shape="rect" id="node6" href="$classgp_1_1Configure.html" title="gp::Configure" alt="" coords="292,375,392,401"/>
+<area shape="rect" id="node8" href="$classrf_1_1RadiationField.html" title="rf::RadiationField" alt="" coords="5,124,127,151"/>
+</map>

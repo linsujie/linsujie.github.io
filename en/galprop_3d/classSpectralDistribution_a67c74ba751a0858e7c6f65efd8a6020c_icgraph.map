@@ -1,0 +1,16 @@
+<map id="SpectralDistribution::EtotToOther" name="SpectralDistribution::EtotToOther">
+<area shape="rect" id="node2" href="$classSpectralDistribution.html#a0bad50a2fecf64a427e6b58396dffc48" title="SpectralDistribution\l::evaluate" alt="" coords="189,5,325,47"/>
+<area shape="rect" id="node3" href="$classSpectralDistribution.html#aaae8324c275cb0e361e8b3c26c7204c2" title="Value at a given total energy. " alt="" coords="189,71,325,112"/>
+<area shape="rect" id="node4" href="$classSpectralDistribution.html#ab896d032f192e9fd8673741dc96700df" title="SpectralDistribution\l::EkinToOther" alt="" coords="189,136,325,177"/>
+<area shape="rect" id="node6" href="$classSpectralDistribution.html#adb98c83657b8f656125402f140da7de7" title="SpectralDistribution\l::pTotToOther" alt="" coords="189,201,325,243"/>
+<area shape="rect" id="node8" href="$classSpectralDistribution.html#abe1b9b8783a0c4bed652a767b0f5351a" title="SpectralDistribution\l::pNucToOther" alt="" coords="189,267,325,308"/>
+<area shape="rect" id="node10" href="$classSpectralDistribution.html#a36a8386952d3dd7a8299039578372b5e" title="SpectralDistribution\l::RigidityToOther" alt="" coords="189,332,325,373"/>
+<area shape="rect" id="node12" href="$classSpectralDistribution.html#ae993e89feda0bdbf649415a1b53b7c3a" title="SpectralDistribution\l::GammaToOther" alt="" coords="189,397,325,439"/>
+<area shape="rect" id="node14" href="$classSpectralDistribution.html#a808053ad6f0353f7a968b349766f18fe" title="SpectralDistribution\l::BetaToOther" alt="" coords="189,463,325,504"/>
+<area shape="rect" id="node5" href="$classSpectralDistribution.html#a7414782015b39bb857b3ee1766076976" title="Value at a given kinetic energy per nucleon. " alt="" coords="373,136,509,177"/>
+<area shape="rect" id="node7" href="$classSpectralDistribution.html#a0c04ce45f381c5aa114bf8c16438a40e" title="Value at a given total momentum. " alt="" coords="373,201,509,243"/>
+<area shape="rect" id="node9" href="$classSpectralDistribution.html#a4ac84bf3982355f19f0888fdaed748eb" title="Value at a given momentum per nucleon. " alt="" coords="373,267,509,308"/>
+<area shape="rect" id="node11" href="$classSpectralDistribution.html#a4c946a12097744e84bf3fb7afc27e283" title="Value at a given rigidity. " alt="" coords="373,332,509,373"/>
+<area shape="rect" id="node13" href="$classSpectralDistribution.html#a8429a4fefcf48202f2ec20be6c41e3de" title="Value at a given Lorentz factor. " alt="" coords="373,397,509,439"/>
+<area shape="rect" id="node15" href="$classSpectralDistribution.html#a87360c11ea9d15f7b2194050ffe6ec38" title="Value at a given velocity (normalized to c) " alt="" coords="373,463,509,504"/>
+</map>

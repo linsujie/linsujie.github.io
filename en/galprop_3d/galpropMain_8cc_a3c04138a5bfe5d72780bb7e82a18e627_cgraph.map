@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="node2" href="$galpropMain_8cc.html#ab180efaa64feefae6244d2c4b4eb7809" title="ShowHelp" alt="" coords="123,157,205,184"/>
+<area shape="rect" id="node3" href="$classGalprop.html#a1239a55a550d878f7c6486c19c80ec37" title="Galprop::AvXCO" alt="" coords="104,208,224,235"/>
+<area shape="rect" id="node16" href="$classGalprop.html#a3af5a665a7f03563d89d59c723a105a7" title="Galprop::Run" alt="" coords="115,1024,213,1051"/>
+<area shape="rect" id="node4" href="$classgp_1_1Configure.html#a9a778c8dea67e0cfab7f7b20b45555e3" title="gp::Configure::init" alt="" coords="307,259,432,285"/>
+<area shape="rect" id="node5" href="$classGaldef.html#a0ac12586cad39f3c84ac7b3928c4777f" title="Galdef::read" alt="" coords="323,157,416,184"/>
+<area shape="rect" id="node8" href="$classGalprop.html#a3d5045d1065aa2edb999ee31f5cf4cd0" title="Galprop::read_gas_maps" alt="" coords="540,1267,707,1293"/>
+<area shape="rect" id="node12" href="$classSM_1_1LOSintegrator.html#a15e6f8e0ee9a8f188aa718224b257382" title="Integrate all functions funcs along the line of sight in the directon l,b. " alt="" coords="300,70,439,111"/>
+<area shape="rect" id="node6" href="$classGaldef.html#aa66f3c5afa015292a001ce22402708dd" title="Galdef::AssignDefaultParameters" alt="" coords="515,208,732,235"/>
+<area shape="rect" id="node7" href="$classGaldef.html#aa2d3c8d0998c8c0a16863b3034a797d7" title="Galdef::AssignParameters" alt="" coords="536,157,711,184"/>
+<area shape="rect" id="node9" href="$classDistribution.html#afd6c93379dc48bf4cb5470fd7dee4c16" title="Distribution::init" alt="" coords="807,1321,920,1348"/>
+<area shape="rect" id="node10" href="$classDistribution.html#a10e1f0a2f96e8c9940d760b05ad1812c" title="Distribution::delete\l_array" alt="" coords="995,1209,1125,1250"/>
+<area shape="rect" id="node11" href="$classDistribution.html#ab44c69fcd4cb838d5a57b366c3bb15f6" title="Distribution::print" alt="" coords="803,1460,924,1487"/>
+<area shape="rect" id="node13" href="$namespaceSM.html#a7ff20e0948f68ac700634f9eb80548b8" title="SM::IntersectionCylinder" alt="" coords="540,56,707,83"/>
+<area shape="rect" id="node14" href="$namespaceSM.html#a7c0fe32e3da94a5e009c37f06c072566" title="SM::IntersectionBox" alt="" coords="553,107,694,133"/>
+<area shape="rect" id="node15" href="$namespaceinteg.html#a419d363f28a744089ae0a766063f5a13" title="Simpson integration method for function of single variable returning vectors of valarrays. " alt="" coords="573,5,673,32"/>
+<area shape="rect" id="node17" href="$galprop__internal_8h.html#a0e91800993657e5a47a494480b7ee529" title="read_nucdata" alt="" coords="319,360,419,387"/>
+<area shape="rect" id="node18" href="$classGalprop.html#ae6252aa99e793b2e81eab27574e4e3b2" title="Galprop::create_galaxy" alt="" coords="291,1861,447,1888"/>
+<area shape="rect" id="node25" href="$classGalprop.html#aab2fc713d0138a637f90a9b91965d715" title="Galprop::create_gcr" alt="" coords="301,411,437,437"/>
+<area shape="rect" id="node26" href="$classGalprop.html#ad25ae53489c509efc007b756ddd75094" title="Galprop::propagate\l_particles" alt="" coords="303,1489,435,1530"/>
+<area shape="rect" id="node27" href="$classParticle.html#af95e274bba8cd5a055f03673bd82a867" title="Particle::create_transport\l_arrays" alt="" coords="539,1537,707,1578"/>
+<area shape="rect" id="node28" href="$galprop__internal_8h.html#a4b511d770518fd34388c5efbc2fe69e1" title="cleanup_nucdata" alt="" coords="309,461,429,488"/>
+<area shape="rect" id="node29" href="$classGalprop.html#a6f01e9d276ad48039914f76b0aafc154" title="Galprop::gen_pi0_decay\l_emiss" alt="" coords="288,513,451,554"/>
+<area shape="rect" id="node30" href="$classGalprop.html#ac7fbc86d40be4295a0ea21ce078626e2" title="Galprop::store_pi0\l_decay_emiss" alt="" coords="305,681,433,722"/>
+<area shape="rect" id="node31" href="$classGalprop.html#a8f9d8dcb1b84149434cab2de21eb2f7e" title="Galprop::gen_bremss\l_emiss" alt="" coords="550,1654,697,1695"/>
+<area shape="rect" id="node32" href="$classGalprop.html#ac5ac2d8e625c01ba674249fefc2d3343" title="Galprop::gen_IC_emiss" alt="" coords="544,1099,703,1125"/>
+<area shape="rect" id="node33" href="$classGalprop.html#a7160ef0650f6bab747cea4d52faf50ab" title="Galprop::gen_DM_emiss" alt="" coords="286,747,453,773"/>
+<area shape="rect" id="node34" href="$classGalprop.html#a7ef965cfb4115b8b9025582a37de9a28" title="Galprop::store_DM_emiss" alt="" coords="282,797,457,824"/>
+<area shape="rect" id="node35" href="$classParticle.html#a0b24b795a3051edb509053b1b854d38f" title="Particle::delete_transport\l_arrays" alt="" coords="780,802,947,843"/>
+<area shape="rect" id="node36" href="$classGalprop.html#a278a0f5fd6e49fe75e51cfd4d85d7750" title="Galprop::fill_transport\l_arrays" alt="" coords="550,1719,697,1761"/>
+<area shape="rect" id="node37" href="$classGalprop.html#a619fb8acb66972579803cc795a95d448" title="Galprop::gen_secondary\l_pair_source" alt="" coords="542,1369,705,1410"/>
+<area shape="rect" id="node38" href="$classGalprop.html#a13ba4785b0581ffb286e9bd770e233bb" title="Galprop::propel" alt="" coords="568,1435,679,1461"/>
+<area shape="rect" id="node39" href="$classGalprop.html#a1aa8860957ce65abc0a8ec41fe4212bb" title="Galprop::store_bremss\l_emiss" alt="" coords="292,849,447,890"/>
+<area shape="rect" id="node40" href="$classGalprop.html#a9817313513b08334d0a0277832fce090" title="Galprop::store_IC_emiss" alt="" coords="286,965,453,992"/>
+<area shape="rect" id="node41" href="$classGalprop.html#a8b9a23abec3572304b8693f46acdac7e" title="Galprop::gen_synch\l_emiss" alt="" coords="554,1150,693,1191"/>
+<area shape="rect" id="node42" href="$classGalprop.html#aa38a2539435fb49a35353cf95e98d2b7" title="Galprop::store_synch\l_emiss" alt="" coords="296,1017,443,1058"/>
+<area shape="rect" id="node43" href="$classGalprop.html#a9ea44ae2386561f26efb8bcb690381b3" title="Galprop::gen_ionization_rate" alt="" coords="276,1083,463,1109"/>
+<area shape="rect" id="node44" href="$classGalprop.html#a3289641d04ffb5f121a549dfedc87f00" title="Galprop::store_ionization_rate" alt="" coords="272,1133,467,1160"/>
+<area shape="rect" id="node45" href="$classGalprop.html#a2c59f7bcde74a3253c697f0db449e08e" title="Galprop::gen_luminosity" alt="" coords="288,1781,451,1808"/>
+<area shape="rect" id="node46" href="$classGalprop.html#aa8bd6302437c399567ae3301d294f86f" title="Galprop::store_luminosity" alt="" coords="284,1184,455,1211"/>
+<area shape="rect" id="node47" href="$classGalprop.html#a87bd1c3be5ce262129499443b62782a4" title="Galprop::store_gcr" alt="" coords="305,1235,434,1261"/>
+<area shape="rect" id="node48" href="$classGalprop.html#a056a311cb9d526bea09a97a5755f4594" title="Galprop::store_gcr_full" alt="" coords="293,1285,446,1312"/>
+<area shape="rect" id="node49" href="$classGalprop.html#a489ad9a9f333a639b8d04c8eb2b94c18" title="Galprop::store_D_tensor" alt="" coords="287,1912,451,1939"/>
+<area shape="rect" id="node50" href="$classGalprop.html#a4a80ef13d7f26634bb82f17607f9f501" title="Galprop::gen_skymaps" alt="" coords="291,1336,447,1363"/>
+<area shape="rect" id="node19" href="$galprop__internal_8h.html#ae212f8558910485553ad0a1939b40569" title="nH_set_model" alt="" coords="570,1988,677,2015"/>
+<area shape="rect" id="node20" href="$galprop__internal_8h.html#ae274c5b195bd9a4bc6d540101ddbc348" title="nH_av" alt="" coords="593,2039,653,2065"/>
+<area shape="rect" id="node21" href="$galprop__internal_8h.html#a82e7ffe8dfb17d92c6d59af877618946" title="nHI3D" alt="" coords="593,1836,653,1863"/>
+<area shape="rect" id="node22" href="$galprop__internal_8h.html#a7256eefa371301b6b205b60b42b66965" title="nH23D" alt="" coords="592,1887,655,1913"/>
+<area shape="rect" id="node23" href="$galprop__internal_8h.html#a6c893fd751d9e52b79e45d7a7bc91a8f" title="nHII3D" alt="" coords="591,1785,655,1812"/>
+<area shape="rect" id="node24" href="$B__field__model_8cc.html#abdceaeb0f67fee9ad02242d6054f8fd0" title="B_field_model" alt="" coords="571,1937,675,1964"/>
+</map>

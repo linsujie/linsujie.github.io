@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classSpectralDistribution.html" title="Interface class for the spectral distribution part of the uniform spectrum source class..." alt="" coords="5,5,141,32"/>
+<area shape="rect" id="node2" href="$classPowerLawSD.html" title="PowerLawSD" alt="" coords="189,5,292,32"/>
+<area shape="rect" id="node3" href="$classSmoothPowerLawSD.html" title="SmoothPowerLawSD" alt="" coords="340,5,487,32"/>
+</map>

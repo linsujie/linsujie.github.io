@@ -1,0 +1,24 @@
+var searchData=
+[
+  ['r',['r',['../classGalaxy.html#af1e947f4686f7bc77d21af1030ceac23',1,'Galaxy::r()'],['../classParticle.html#a088a6adeb44272697be0cf68e3fe9009',1,'Particle::r()']]],
+  ['r_5fbins',['R_bins',['../classGalaxy.html#a8e5a54440ae4c10ffe18e6c01c268def',1,'Galaxy']]],
+  ['r_5fmax',['r_max',['../classGalaxy.html#a12144981fdefc545d4bc7e8cf898c140',1,'Galaxy::r_max()'],['../classGaldef.html#a26cf5007c7feb3c7b2239818e0ed7f9f',1,'Galdef::r_max()'],['../classParticle.html#ab59e7bf8d9d448652f6b528286af2c7a',1,'Particle::r_max()']]],
+  ['r_5fmin',['r_min',['../classGalaxy.html#a40b2e71e5ab78c89528f286dfeb104a0',1,'Galaxy::r_min()'],['../classGaldef.html#a901ac729bff22223ab6138a9dd6f2d59',1,'Galdef::r_min()'],['../classParticle.html#a294bbf4ed8469cbc618c52e42a894528',1,'Particle::r_min()']]],
+  ['r_5fstore',['R_store',['../classPropelCorrection1D.html#a3f7ae92a6434d213b27c835bd2853562',1,'PropelCorrection1D']]],
+  ['r_5fsun',['R_SUN',['../B__field__3D__model__extra_8cc.html#a225ec8346654985707247e2bd06ce48c',1,'B_field_3D_model_extra.cc']]],
+  ['radioactive_5fdecay',['radioactive_decay',['../classGaldef.html#ab5d4b0b8d157712cc592ecbda3ffc234',1,'Galdef']]],
+  ['rbins',['rBins',['../classGalprop_1_1AnisoICFunction.html#a7b144ecc7b6f465b1a53162023e117fc',1,'Galprop::AnisoICFunction']]],
+  ['rbr',['Rbr',['../classD__spec.html#a27a87f5e20565e29c991d65a0dfa8a02',1,'D_spec']]],
+  ['reach_5fend',['reach_end',['../classtime__steps.html#af4d6f1a3b272ee56d7dccff41aa39609',1,'time_steps']]],
+  ['removesteadystate',['removeSteadyState',['../classSourceClass__Compatibility.html#aaf3ce25ff4a88dbe0c6add0410f57abe',1,'SourceClass_Compatibility']]],
+  ['renormgas',['renormGas',['../classGalaxy.html#ac2862f207236dad7237ab77397f947c3',1,'Galaxy']]],
+  ['rgrid',['rGrid',['../classGalprop_1_1AnisoICFunction.html#a2b22c9da73a962b0f9aa3f0c93554e4e',1,'Galprop::AnisoICFunction']]],
+  ['rigid_5fbr',['rigid_br',['../structSourceClass__Compatibility_1_1specProperties.html#a8432107a886feb7a9e485fa385fd546a',1,'SourceClass_Compatibility::specProperties']]],
+  ['rigid_5fbr0',['rigid_br0',['../structSourceClass__Compatibility_1_1specProperties.html#a9d0b63ec3bb55b110465f9ff79edec11',1,'SourceClass_Compatibility::specProperties']]],
+  ['rigid_5fmax',['rigid_max',['../classGaldef.html#ae912a23dd14a68cfb88db21e77e2f0dd',1,'Galdef']]],
+  ['rigid_5fmin',['rigid_min',['../classGaldef.html#a0fb26c5caf4a185a9e89bdd71c663f53',1,'Galdef']]],
+  ['rigidity',['rigidity',['../classParticle.html#a23eb6bed7bc93871b142195486238f17',1,'Particle']]],
+  ['rmax',['rMax',['../classGalprop_1_1AnisoICFunction.html#a1716a69221ffbfb3bed44be0001b92b7',1,'Galprop::AnisoICFunction']]],
+  ['rref',['Rref',['../classD__spec.html#a7d2220a0af219e2a70160757efd4ad42',1,'D_spec']]],
+  ['run_5fno',['run_no',['../classGaldef.html#a98a1723212087abd09d9a3de44a83c8e',1,'Galdef']]]
+];

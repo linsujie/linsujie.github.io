@@ -1,0 +1,27 @@
+var searchData=
+[
+  ['camerax',['cameraX',['../classGalprop_1_1AnisoICFunction.html#a4ce27113f6f96f1a837d4f72f4d8088f',1,'Galprop::AnisoICFunction']]],
+  ['cameray',['cameraY',['../classGalprop_1_1AnisoICFunction.html#a127162e16c6d333eab87ea8fb1572c81',1,'Galprop::AnisoICFunction']]],
+  ['cameraz',['cameraZ',['../classGalprop_1_1AnisoICFunction.html#a53cc1f5554c364c1190a7091169a146a',1,'Galprop::AnisoICFunction']]],
+  ['clumping_5ffactor',['clumping_factor',['../classsynchro_1_1KappaFreeFree.html#adbe4be0e9257f4afa0e4c38e8c0fdec5',1,'synchro::KappaFreeFree::clumping_factor()'],['../classsynchro_1_1EmissFreeFree.html#a66185b2114666d4db7fa754d9c1686a4',1,'synchro::EmissFreeFree::clumping_factor()']]],
+  ['cmbnumberdensity',['cmbNumberDensity',['../classGalprop_1_1AnisoICFunction.html#a7c7aa529ccfda1d8520eb41ff3c4f398',1,'Galprop::AnisoICFunction']]],
+  ['cmbskymap',['cmbSkymap',['../classGalprop_1_1AnisoICFunction.html#ad56e7429072570e1c8b985b1f5e63672',1,'Galprop::AnisoICFunction']]],
+  ['configure',['configure',['../classGalprop.html#a8f9325b2c664716c991a799f64586eaf',1,'Galprop']]],
+  ['control_5fdiagnostics',['control_diagnostics',['../classGaldef.html#aa1d77accd29803cb285037d97f39877d',1,'Galdef']]],
+  ['convection',['convection',['../classGaldef.html#a5078d4e138e325236c710eae06525370',1,'Galdef']]],
+  ['cor',['COR',['../classGalaxy.html#a668b5b504dd7f6ad7d52b3a0b8d419f1',1,'Galaxy']]],
+  ['cor_5ffilename',['COR_filename',['../classGaldef.html#ababfdd9ec1fada5bfc884090bac4d7e4',1,'Galdef']]],
+  ['costhetabins',['cosThetaBins',['../classGalprop_1_1AnisoICFunction.html#a3b1231672407209e4d0c2735f2366a5a',1,'Galprop::AnisoICFunction']]],
+  ['coulomb_5flosses',['coulomb_losses',['../classGaldef.html#a98221c864d0edb75d0c0e2e6377f0d6e',1,'Galdef']]],
+  ['cr_5fdensity',['cr_density',['../classParticle.html#a5cbebaba93d661c3a31c7fdbab2f799d',1,'Particle::cr_density()'],['../classPropelFluxSim.html#ae26d6869f833cd58885def90071b4079',1,'PropelFluxSim::cr_density()'],['../classPropelHundsdorferVerwer.html#a6ce5ed03088bcda63dea99303edd2dbd',1,'PropelHundsdorferVerwer::cr_density()'],['../classPropelCrankNicolson.html#ab2886adc072d609d784492464580e401',1,'PropelCrankNicolson::cr_density()'],['../classPropelCrankNicolsonVector.html#af4df99f155a9d9c553d786a5c1eb8d7b',1,'PropelCrankNicolsonVector::cr_density()']]],
+  ['cr_5fdensity_5flast',['cr_density_last',['../classPropelFluxSim.html#aca667e6e71f8068558f5d221100dde7c',1,'PropelFluxSim::cr_density_last()'],['../classPropelHundsdorferVerwer.html#aee818da22bfc2a2ccaadc3c7295e2534',1,'PropelHundsdorferVerwer::cr_density_last()']]],
+  ['cr_5fdensity_5fnext',['cr_density_next',['../classPropelFluxSim.html#a36aed659ad85191934dff3ec7ac512ee',1,'PropelFluxSim::cr_density_next()'],['../classPropelHundsdorferVerwer.html#ae7e0144d283588280c3433e15c3da3a5',1,'PropelHundsdorferVerwer::cr_density_next()']]],
+  ['cr_5fsource_5fl',['cr_source_L',['../classSourceClass__Compatibility.html#a52717606232919b7729d5ff23d42cdf9',1,'SourceClass_Compatibility']]],
+  ['cr_5fsource_5fw',['cr_source_w',['../classSourceClass__Compatibility.html#ac847fd5a08b40de9aa86b8e7b902b7e3',1,'SourceClass_Compatibility']]],
+  ['cr_5fsource_5fx',['cr_source_x',['../classSourceClass__Compatibility.html#ae54e8149bfdf077b6d3e62d3c5f09d95',1,'SourceClass_Compatibility']]],
+  ['cr_5fsource_5fy',['cr_source_y',['../classSourceClass__Compatibility.html#aa1fc0548fe81879fb90d2fff70925c78',1,'SourceClass_Compatibility']]],
+  ['cr_5fsource_5fz',['cr_source_z',['../classSourceClass__Compatibility.html#a0924e4c87fb638d8091afdf2287ad1da',1,'SourceClass_Compatibility']]],
+  ['createsnrdistributions',['createSNRDistributions',['../classSourceClass__Compatibility.html#a72730ad1670a217c221d9cf13e320146',1,'SourceClass_Compatibility']]],
+  ['cross_5fsection_5foption',['cross_section_option',['../classGaldef.html#a8cbd0d007b46e42f91b24397b13e0328',1,'Galdef']]],
+  ['current_5fdt',['current_dt',['../classtime__steps.html#ad1bc76a81922fd3fff70d4ebff02278b',1,'time_steps']]]
+];

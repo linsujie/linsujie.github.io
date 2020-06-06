@@ -1,0 +1,14 @@
+<map id="nHII3D" name="nHII3D">
+<area shape="rect" id="node2" href="$classGalprop.html#ae6252aa99e793b2e81eab27574e4e3b2" title="Galprop::create_galaxy" alt="" coords="129,5,285,32"/>
+<area shape="rect" id="node5" href="$classGalprop_1_1GasFunction.html#ae31033eeb5e7bf81b92a94ec700b1066" title="x,y,z are the spatial coordinates for evaluation and dir is the direction the camera is pointing ..." alt="" coords="133,57,282,98"/>
+<area shape="rect" id="node6" href="$classGalprop.html#a2c59f7bcde74a3253c697f0db449e08e" title="Galprop::gen_luminosity" alt="" coords="126,123,289,149"/>
+<area shape="rect" id="node7" href="$classsynchro_1_1KappaFreeFree.html#a323b397e1cab0dadf6834633f690f033" title="x,y,z are the spatial coordinates for evaluation and dir is the direction the camera is pointing ..." alt="" coords="125,174,290,215"/>
+<area shape="rect" id="node8" href="$classsynchro_1_1EmissFreeFree.html#a335dd2aa93bbb4e7852f90d5fb58098f" title="x,y,z are the spatial coordinates for evaluation and dir is the direction the camera is pointing ..." alt="" coords="125,239,290,281"/>
+<area shape="rect" id="node9" href="$namespacesynchro.html#a0293ddc783240c169ea1febd76d525e6" title="synchro::kappa_free\l_free_2D" alt="" coords="137,305,277,346"/>
+<area shape="rect" id="node10" href="$namespacesynchro.html#a01492872a7fa57fe6c252d675cbc5fea" title="synchro::kappa_free\l_free_3D" alt="" coords="137,370,277,411"/>
+<area shape="rect" id="node11" href="$classSourceClass__Compatibility.html#a7b340acf97bad7af6e35356cf5e22291" title="SourceClass_Compatibility\l::source_distribution" alt="" coords="117,435,297,477"/>
+<area shape="rect" id="node13" href="$test__nH_8cc.html#a9304cec2c390bacb132db7da8809b82b" title="test_nH" alt="" coords="173,501,241,528"/>
+<area shape="rect" id="node3" href="$classGalprop.html#a3af5a665a7f03563d89d59c723a105a7" title="Galprop::Run" alt="" coords="386,64,485,91"/>
+<area shape="rect" id="node4" href="$galpropMain_8cc.html#a3c04138a5bfe5d72780bb7e82a18e627" title="main" alt="" coords="573,64,624,91"/>
+<area shape="rect" id="node12" href="$classSourceClass__Compatibility.html#a09524e7d999f60c00d0420afed49f739" title="Add the steady state source density to the particle. " alt="" coords="345,435,525,477"/>
+</map>
